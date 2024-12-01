@@ -1,0 +1,25 @@
+Building User verfication for Banking applications using PAN card verification.
+Why? 
+1. Financial applications and products require user verification and that is done through PAN card / Aadhar card or any other Government ID proofs
+2. Currently to onboard a user into banking, in India we deploy human resources for validating and aprpoving user information in online KYC process
+3. While that is faster, is there an opportunity to detect PAN Card and store the PAN card details and check at the backend for user id validation, verification
+
+Impact - Work in progress
+- Cost Savings
+- Time to onboard
+- Verification and security impact
+
+
+Tech stack
+1. OpenCV for computer vision
+2. Training & Testing Dataset from Kaggle, if available
+3. Flask
+4. Heroku for Deployment
+
+Constraints:
+1. PII information handling
+2. Data security
+3. Encryption of the PAN number
+3. Availability of rich set of training data
+
+                                          

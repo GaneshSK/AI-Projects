@@ -1,0 +1,11 @@
+Building Computer vision based application that can analyze trend and provide insights looking at candlestick patterns of stock or any financial ticker 
+
+Why?
+1. Price action trading and other trading strategies like Mean reversion, Trend following etc. requires understanding of Candlestick patterns
+
+
+Tech:
+1. Heroku for deployement
+2. Streamlit for Front end and prototype
+3. Some LLM stack for generating insights on pattern
+4. OpenCV for image to text
